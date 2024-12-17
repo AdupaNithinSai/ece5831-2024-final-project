@@ -6,7 +6,7 @@
 This repository contains an interactive visualization tool for Convolutional Neural Networks, built as a project for one of our courses, **ECE5831 Pattern Recognition and Neural Networks**. The tool is designed for educators, students, and researchers. This project provides real-time, layer-by-layer visualization of CNN operations, helping users intuitively learn about complex concepts.  
 
 The **Interactive CNN Visualization Tool** allows users to:  
-- **Draw/Upload Images**: Provide customized images for processing by the CNN.  
+- **Draw Images**: Provide customized images for processing by the CNN.  
 - **Visualize in Real Time**: Observe feature maps and activation patterns through convolutional, pooling, and dense layers.  
 - **Understand CNN Operations**: Gain insights into edge detection, feature extraction, and classification processes.  
 
