@@ -1,4 +1,3 @@
-Here's the updated text with the videos embedded directly where applicable:  
 
 ---
 
@@ -39,8 +38,4 @@ Explore visualizations of the CNN layers!
 
 ---  
 
-### Notes:  
-1. Embedding YouTube videos directly works on most markdown viewers that support HTML, like GitHub Pages.  
-2. For Google Drive videos, embedding with `<iframe>` works for platforms that support it. If embedding doesn't work on your platform, revert to sharing the link directly.  
 
-Let me know if you'd like adjustments!
