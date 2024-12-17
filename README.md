@@ -1,3 +1,5 @@
+Here's the updated text with the videos embedded directly where applicable:  
+
 ---
 
 # ECE5831 - Final Project  
@@ -37,4 +39,10 @@ Explore visualizations of the CNN layers!
 - **Demo:**  
   <iframe src="https://drive.google.com/file/d/190AmJZ7Ujdnk0YnIvN8IXVZmh7lTCw5q/preview" width="640" height="480" allow="autoplay"></iframe>  
 
----
+---  
+
+### Notes:  
+1. Embedding YouTube videos directly works on most markdown viewers that support HTML, like GitHub Pages.  
+2. For Google Drive videos, embedding with `<iframe>` works for platforms that support it. If embedding doesn't work on your platform, revert to sharing the link directly.  
+
+Let me know if you'd like adjustments!
