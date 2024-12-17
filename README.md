@@ -29,15 +29,13 @@ The project uses **Streamlit** for the interactive interface, **TensorFlow** for
 
 Explore visualizations of the CNN layers!  
 
-## Resources  
+## Resources
 
 - **Dataset:** We haven’t used any specific dataset since our project focuses on visualization rather than training a CNN for one specific dataset.  
 - **Project Report:** [View Report](https://drive.google.com/file/d/1ZSVbu-SzPwG6AAwbmZQVQC5BbeE5uFE7/view?usp=drive_link)  
 - **Presentation Slides:** [View Slides](https://drive.google.com/file/d/15AHJgBnLUnZc3_UFvz5YuQexnoxSzG9g/view?usp=drive_link)  
-- **Presentation:**  
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zHOBiQmFux4" title="Presentation Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
-- **Demo:**  
-  <iframe src="https://drive.google.com/file/d/190AmJZ7Ujdnk0YnIvN8IXVZmh7lTCw5q/preview" width="640" height="480" allow="autoplay"></iframe>  
+- **Presentation:** [Watch Video on YouTube](https://www.youtube.com/watch?v=zHOBiQmFux4)  
+- **Demo:** [Watch Demo on Google Drive](https://drive.google.com/file/d/190AmJZ7Ujdnk0YnIvN8IXVZmh7lTCw5q/view?usp=drive_link)
 
 ---  
 
