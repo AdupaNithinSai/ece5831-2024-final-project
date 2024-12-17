@@ -24,7 +24,7 @@ The project uses **Streamlit** for the interactive interface, **TensorFlow** for
    streamlit run app.py  
    ```  
 3. **Input an Image:**  
-   You can either draw an image using the interactive canvas or upload a custom image.  
+   You can draw an image using the interactive canvas.  
 
 Explore visualizations of the CNN layers!  
 
