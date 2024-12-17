@@ -20,8 +20,8 @@ The project leverages:
 ---
 
 **NOTE:**  
-1. The provided Jupyter notebook, final-project.ipynb, demonstrates CNN operations using OpenCV (cv2) only, as Streamlit is not supported within Jupyter environments. 
-2. To experience the full interactive user interface, please run the project using Streamlit (see instructions below). 
+1) The provided Jupyter notebook, `final-project.ipynb`, demonstrates CNN operations using OpenCV (`cv2`) only, as Streamlit is not supported within Jupyter environments. 
+2) To experience the full interactive user interface, please run the project using Streamlit (see instructions below).
 
 ---
 
