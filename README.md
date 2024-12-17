@@ -55,7 +55,7 @@ Below is an example output image showing feature maps generated at different CNN
 ## Resources
 
 - **Dataset:** We haven’t used any specific dataset since our project focuses on visualization rather than training a CNN for one specific dataset.  
-- **Project Report:** [View Report](https://drive.google.com/file/d/1RtiSzlNzIAbN9kZ0_4RY4IB2xvgGkTvC/view?usp=drive_link)  
+- **Project Report:** [View Report](https://drive.google.com/file/d/17rOFuquPSJTYrwLpRHNeYQazTgLG6nW0/view?usp=drive_link)  
 - **Presentation Slides:** [View Slides](https://drive.google.com/file/d/15AHJgBnLUnZc3_UFvz5YuQexnoxSzG9g/view?usp=drive_link)  
 - **Presentation:** [Watch Video on YouTube](https://www.youtube.com/watch?v=zHOBiQmFux4)  
 - **Demo:** [Watch Demo on Google Drive](https://drive.google.com/file/d/190AmJZ7Ujdnk0YnIvN8IXVZmh7lTCw5q/view?usp=drive_link)
